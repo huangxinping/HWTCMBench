@@ -3,7 +3,8 @@
 A Comprehensive Benchmark for Evaluating Large Language Models in Traditional Chinese Medicine.
 
 # Changelog
-- 2024-08-09: debut
+- **2024-08-28: Added 7226 questions.**
+- 2024-07-20: Debut.
 
 # Dataset
 
