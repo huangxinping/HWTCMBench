@@ -141,7 +141,7 @@ def process_item(index, item, model):
 
 
 def main():
-    question_amount = {"单选题": 32018, "多选题": 131, "判断题": 96} # 先验知识
+    question_amount = {"单选题": 37454, "多选题": 1619, "判断题": 96} # 先验知识
     ds = load_dataset("Monor/hwtcm", split="train")
     result = {}
     
